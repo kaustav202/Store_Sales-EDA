@@ -177,7 +177,7 @@ sns.barplot(x=data2.index,y=data2['Quantity'],palette='inferno')
 # * Max Average total bill in Home and lifestyle
 # * Min Average total bill in Fashion Accessories
 # * Maximum People pays through e-wallet
-# * Maximum people comes from Yangon City
+# * Maximum people comes from Delhi
 # * Max Average Sales of Fashion Accessories is from Females
 # * Max Average Sales of Health & Beauty is from Males
 
