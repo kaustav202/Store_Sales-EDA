@@ -13,5 +13,5 @@ Clone the repository to your local repo or download as .ipynb file and open jupy
 [**View Via jupyter notebook**](https://github.com/kaustav202/superMarket-EDA-sales_prediction/blob/main/supermarket-data-analysis.ipynb)
 
 ### Access as HTML document
-Open the following link in a web browser
-[**Link to HTML document**]
+Open the following link in a web browser to view the project as web document<br/><br/>
+[**Link to HTML document**](https://kaustav202.github.io/Python-Projects)
