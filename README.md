@@ -1,4 +1,4 @@
-# superMarket-EDA-sales_prediction
+# superMarket-EDA
 
 This project aims to analyse the sales patterns and customer behaviour with respect to choice of products and various ctegories of items across
 a chain of stores in  3 different cities.<br/>
