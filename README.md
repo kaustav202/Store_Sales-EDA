@@ -14,4 +14,4 @@ Clone the repository to your local repo or download as .ipynb file and open jupy
 
 ### Access as HTML document
 Open the following link in a web browser to view the project as web document<br/><br/>
-🔗  [**Link to HTML document**](https://departmental-store-eda.web.app/)
+🔗  [**View as Web Page**](https://departmental-store-eda.web.app/)
