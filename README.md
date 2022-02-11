@@ -1,4 +1,4 @@
-# SuperMarket-EDA
+# Store_Sales-EDA
 
 This project aims to analyse the sales patterns and customer behaviour with respect to choice of products and various categories of items across
 a chain of stores in  3 different cities.<br/>
